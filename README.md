@@ -4,5 +4,5 @@ This repository contains the code for the INFO-B 529 Computational Analysis of H
 ## Project Contents
 - `RNAseq.sh`: Shell script for running the RNA-seq data processing pipeline.
 - `RIBOseq.sh`: Shell script for running the Ribo-seq data processing pipeline.
-- `Nanopore.sh`: Shell script for running the nanopore direct RNA-seq (dRNA-seq) pipeline for m6A modification detection.
+- `nanopore.sh`: Shell script for running the nanopore direct RNA-seq (dRNA-seq) pipeline for m6A modification detection.
 - `FinalProject.R`: R script for calculating translational efficiency and analyzing its relationship to m6A modifications.
